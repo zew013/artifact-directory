@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/zew013/artifact-directory.git",
+    "project-repository": "https://github.com/karinaechen/diffusion-model-internal-representation.git",
+    "project-website-url": "https://ester-tsai.github.io/diffusion-model-internal-representation/",
+    "project-website-code": "https://github.com/ester-tsai/diffusion-model-internal-representation.git"
 }
