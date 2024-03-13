@@ -1,5 +1,6 @@
 Title:
-<Diffusion Model Scene Representation>
+<From Pixels to Pictures: Understanding the Internal
+Representation of Latent Diffusion Models>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Many AI image generators use diffusion models to create images from text prompts, including Stable Diffusion, which uses a latent diffusion model (LDM). Even though these LDMs are trained on 2D images, they can generate highly realistic and coherent 3D scenes. Our research explains and visualizes how the LDM encodes 3D information like saliency, depth, and shading. By probing the internal activations of the LDM's U-Net using linear probing classifiers, we conclude that 3D information is encoded as early as step 3 out of 15 of the denoising process. We can further explore how to modify the 3D layout of the generated image without changing the prompt or seed by editing the foreground mask or depth map.>
