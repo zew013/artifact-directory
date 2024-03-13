@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Diffusion Model Scene Representation>
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
